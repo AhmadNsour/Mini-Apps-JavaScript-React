@@ -1,0 +1,20 @@
+.div1{
+    margin: 20px 0 0 37%;
+    width: 29%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.search{
+    margin:0 0 10px 0; 
+}
+input{
+    border-radius: 12px;
+    padding: 8px;
+    width: 87%; 
+}
+.result{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.name{
+    margin:15px 0 18px 27%; 
+}
